@@ -25,9 +25,7 @@
 
 <h3 align=center> 💻 Github Stat 💻 </h3>
 <div align=center>
-  <a href="https://solved.ac/ymink919/">
-    <img align="center" src="https://github-readme-stats.vercel.app/api?username=ymink716" />
-  </a>
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=ymink716" />
 </div>
 
 <br>
@@ -38,9 +36,6 @@
 </div>
 
 <br>
-
-[![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=ymink919)](https://solved.ac/ymink919/)
-
 
 <div align=center>
   <a href="https://hits.seeyoufarm.com">
