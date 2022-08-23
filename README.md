@@ -1,5 +1,6 @@
 ![header](https://capsule-render.vercel.app/api?type=waving&color=83BEF7&height=300&section=header&text=Yongmin's%20Github&fontSize=90&fontColor=113455)
 
+<p align=center> 📖 Studying to be a backend developer </p>
 <p align=center> 📧 Email : ymink716@gmail.com </p>
 
 <h3 align=center> 🛠️ Tech Stack 🛠️ </h3>
@@ -10,12 +11,10 @@
   <img src="https://img.shields.io/badge/express-000000?style=for-the-badge&logo=express&logoColor=white">
   <img src="https://img.shields.io/badge/NestJS-E0234E?style=for-the-badge&logo=NestJS&logoColor=white">
 </div>
-
 <div align=center> 
   <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=MySQL&logoColor=white">
   <img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white">
 </div>
-
 <div align=center> 
   <img src="https://img.shields.io/badge/git-F05032?style=for-the-badge&logo=git&logoColor=white">
   <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=Docker&logoColor=white">
@@ -24,13 +23,26 @@
 
 <br>
 
+<h3 align=center> 💻 Github Stat 💻 </h3>
 <div align=center>
-  <a href="https://github.com/anuraghazra/github-readme-stats">
+  <a href="https://solved.ac/ymink919/">
     <img align="center" src="https://github-readme-stats.vercel.app/api?username=ymink716" />
   </a>
 </div>
 
 <br>
+
+<h3 align=center> 💻 Solved.ac 💻 </h3>
+<div align=center>
+  <a href="https://github.com/anuraghazra/github-readme-stats">
+    <img align="center" src="http://mazassumnida.wtf/api/v2/generate_badge?boj=ymink919" />
+  </a>
+</div>
+
+<br>
+
+[![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=ymink919)](https://solved.ac/ymink919/)
+
 
 <div align=center>
   <a href="https://hits.seeyoufarm.com">
