@@ -30,12 +30,12 @@
 
 <br>
 
-<h3 align=center> 💻 Solved.ac 💻 </h3>
+<h3 align=center> 🎯 Solved.ac 🎯 </h3>
 <div align=center>
   <img align="center" src="http://mazassumnida.wtf/api/v2/generate_badge?boj=ymink919" />
 </div>
 
-<br>
+<br><br><br>
 
 <div align=center>
   <a href="https://hits.seeyoufarm.com">
