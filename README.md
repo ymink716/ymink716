@@ -1,6 +1,6 @@
 ![header](https://capsule-render.vercel.app/api?type=waving&color=83BEF7&height=300&section=header&text=Yongmin's%20Github&fontSize=90&fontColor=113455)
 
-<p align=center> 📖 Studying to be a backend developer </p>
+<h3 align=center> 📖 Studying to be a backend developer </h3>
 <p align=center> 📧 Email : ymink716@gmail.com </p>
 
 <h3 align=center> 🛠️ Tech Stack 🛠️ </h3>
