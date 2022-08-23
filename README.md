@@ -34,9 +34,7 @@
 
 <h3 align=center> 💻 Solved.ac 💻 </h3>
 <div align=center>
-  <a href="https://github.com/anuraghazra/github-readme-stats">
-    <img align="center" src="http://mazassumnida.wtf/api/v2/generate_badge?boj=ymink919" />
-  </a>
+  <img align="center" src="http://mazassumnida.wtf/api/v2/generate_badge?boj=ymink919" />
 </div>
 
 <br>
